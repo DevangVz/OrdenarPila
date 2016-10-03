@@ -13,6 +13,8 @@ public class Pila {
     int alfa=0;
     int[] array;
     
+            
+    
     public Pila(){
         array=new int[1];
     }
