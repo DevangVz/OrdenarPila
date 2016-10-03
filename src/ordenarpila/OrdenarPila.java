@@ -53,6 +53,7 @@ public class OrdenarPila {
                     index++;
                 }
                 beta.push(chi);
+                
             }
         } while (!array.isEmpty());
         beta.print();
